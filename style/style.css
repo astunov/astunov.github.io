@@ -1,0 +1,22 @@
+body {
+    margin-top: 20px;
+    min-width: 320px;
+}
+
+.map > div {
+    height: 270px;
+    max-width: 270px;
+}
+
+svg {
+    width: 100%;
+    max-width: 270px;
+}
+
+.alert {
+    margin-top: 10px;
+}
+
+.has-error {
+    color: #a94442;
+}
